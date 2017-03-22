@@ -22,5 +22,9 @@
   "peerDependencies": {
     "tslint": "^4.5.1"
   },
-  "repository": "github:progre/tslint-config-airbnb"
+  "repository": "github:progre/tslint-config-airbnb",
+  "devDependencies": {
+    "tslint": "^4.5.1",
+    "typescript": "^2.2.1"
+  }
 }
